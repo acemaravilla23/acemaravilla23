@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋, I'm John Ace Maravilla
 
-<!--
-**acemaravilla23/acemaravilla23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me 
+- BSIT Student at Laguna State Polytechnic University
+- Currently learning Laravel, PHP, SQL, Vue JS, and Python
+- Goal: To become a skilled Website Developer
+- Interested in Website Development and UI/UX Design
 
-Here are some ideas to get you started:
+## 🛠 Skills  
+- Languages: Python, PHP, SQL
+- Frameworks/Tools: Flask, Laravel, Git, GitHub
+- Other: Database Management, Web Development Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects 
+- Learning Git and GitHub for version control
+- Learning frontend frameworks such as Vue JS and React
+- Creating small apps as portfolio projects
+- Developing our capstone project
+
+## 🤝 Connect With Me 
+- Email: johnacemaravilla23@gmail.com
